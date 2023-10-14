@@ -19,25 +19,36 @@ A clothing store website made using react.js and firebase. The user can browse v
 * Setting up a payment method such as stipe payment.
 * Addition of new items.
 * user reviews of items.
+* Generating discount codes in the discount section.
 
 # Technologies Used
-**Deployment**: *Netlify*
-**Design**: *Sass*
-**Database**: *Firebase Firestore*
-**Backend**: *Firebase*
-**Frontend**: *Reactjs*
+* **Deployment**: *Netlify*
+* **Design**: *Sass*
+* **Database**: *Firebase Firestore*
+* **Backend**: *Firebase*
+* **Frontend**: *Reactjs*
+
+## ScreenCaps of routes
+ **HOME PAGE**
+ 
+![image](https://github.com/samyak-sony/clothing-store/assets/74599537/f3882c00-c1d7-442b-b5a1-26ecbfa593c6)
+
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
+**SHOP PAGE**
+
+![image](https://github.com/samyak-sony/clothing-store/assets/74599537/80c0fb2e-9868-4aaa-8ef5-bc743f6cec40)
+
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
+<---------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+**CHECKOUT PAGE**
+
+![image](https://github.com/samyak-sony/clothing-store/assets/74599537/e359bc07-d0b9-4742-a828-f491b31ce21b)
 
 
 
 
-
-
-
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -51,10 +62,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
@@ -76,32 +83,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ok.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
