@@ -1,3 +1,40 @@
+# DrainStore
+A clothing store website made using react.js and firebase. The user can browse various clothing items, add items to their cart and log-in using their google account or with email & password.
+
+## Features
+* Authentication with Google account.
+* Authentication with email & password.
+* Cart: User can add and remove products. It displays the products information such as product             price and quantity.
+* Checout Page: User can edit the quantity of the item selected or remove the item from their cart.
+* Sign-in Page: User can sign-in using their google account or sign-in/ sign-up using email &                password.
+
+# Working
+* Routes implemented using React router, responsive design using SASS.
+* Store data and products are loaded from the server.
+* User information is stored in the firebase firestore database.
+* Total Quantity of items selected is shown in the cart with the total billing amount.
+* Cancelling of orders from the checkout page or from the item cart.
+
+# Future plan
+* Setting up a payment method such as stipe payment.
+* Addition of new items.
+* user reviews of items.
+
+# Technologies Used
+**Deployment**: *Netlify*
+**Design**: *Sass*
+**Database**: *Firebase Firestore*
+**Backend**: *Firebase*
+**Frontend**: *Reactjs*
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
