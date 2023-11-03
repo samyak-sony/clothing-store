@@ -13,10 +13,11 @@ A clothing store website made using react.js and firebase. The user can browse v
 * Store data and products are loaded from the server.
 * User information is stored in the firebase firestore database.
 * Total Quantity of items selected is shown in the cart with the total billing amount.
+* Added Stripe payment feature for secure and efficient transactions.
 * Cancelling of orders from the checkout page or from the item cart.
 
 # Future plan
-* Setting up a payment method such as stipe payment.
+* Setting up a payment method such as stipe payment.(done ✔️)
 * Addition of new items.
 * user reviews of items.
 * Generating discount codes in the discount section.
